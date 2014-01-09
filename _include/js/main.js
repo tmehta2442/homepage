@@ -77,7 +77,7 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '_include/img/slider-images/fish1.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/fish1.jpg', title : '<div class="slide-content">Coming Soon - Look at fish in the meantime</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/fish2.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/fish3.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/fish4.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''}  
