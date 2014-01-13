@@ -54,7 +54,7 @@ BRUSHED.slider = function(){
 		start_slide             :   1,			// Start slide (0 is random)
 		stop_loop				:	0,			// Pauses slideshow on last slide
 		random					: 	0,			// Randomize slide order (Ignores start slide)
-		slide_interval          :   12000,		// Length between transitions
+		slide_interval          :   7000,		// Length between transitions
 		transition              :   1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
 		transition_speed		:	300,		// Speed of transition
 		new_window				:	1,			// Image links open in new window/tab
@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '_include/img/slider-images/fish1.jpg', title : '<div class="slide-content">Coming Soon - Look at fish in the meantime</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/fish2.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/fish3.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/fish4.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''}  
+											{image : '_include/img/slider-images/pic1.jpg', title : '<div class="slide-content">Coming Soon - Look at fish in the meantime</div>', thumb : '_include/img/slider-images/fish2.jpg', url : '_include/img/slider-images/fish2.jpg'},
+											{image : '_include/img/slider-images/pic2.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/pic3.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/pic4.jpg', title : '<div class="slide-content">Test</div>', thumb : '', url : ''}  
 									],
 									
 		// Theme Options			   
