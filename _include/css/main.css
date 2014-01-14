@@ -683,6 +683,7 @@ nav#menu #menu-nav li a:hover {
 
 .work-nav #filters li a.selected {
 	color: #DE5E60;
+	font-size: 25px;
 }
 
 #thumbs {
